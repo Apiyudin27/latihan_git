@@ -8,6 +8,7 @@ GO
 --Comment Melani
 --Comment 2
 --18/11/2020
+--Coba komen
 
 SET QUOTED_IDENTIFIER ON
 GO
