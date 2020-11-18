@@ -6,6 +6,7 @@ SET ANSI_NULLS ON
 GO
 
 --Comment Melani
+--Comment 2
 
 SET QUOTED_IDENTIFIER ON
 GO
